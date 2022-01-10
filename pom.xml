@@ -32,7 +32,7 @@
     </dependencies>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/CarlosGR95/mb2g-release-plugin.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:CarlosGR95/mb2g-release-plugin.git</developerConnection>
         <url>https://github.com/CarlosGR95/mb2g-release-plugin</url>
       <tag>mb2g-release-plugin-1.0</tag>
   </scm>
